@@ -1,0 +1,8 @@
+mode: set
+github.com/carlostrejo2308/mocktest/main.go:21.55,26.2 2 0
+github.com/carlostrejo2308/mocktest/main.go:28.54,33.2 2 0
+github.com/carlostrejo2308/mocktest/main.go:35.76,39.16 3 1
+github.com/carlostrejo2308/mocktest/main.go:42.2,45.16 3 1
+github.com/carlostrejo2308/mocktest/main.go:48.2,50.19 2 1
+github.com/carlostrejo2308/mocktest/main.go:39.16,41.3 1 0
+github.com/carlostrejo2308/mocktest/main.go:45.16,47.3 1 0
